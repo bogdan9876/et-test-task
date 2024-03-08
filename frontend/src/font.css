@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Georgia-Regular';
+    src: local('Georgia-Regular'),
+         url('./fonts/Georgia-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Georgia-Bold';
+    src: local('Georgia-Bold'),
+         url('./fonts/Georgia-Bold.ttf') format('truetype');
+}
